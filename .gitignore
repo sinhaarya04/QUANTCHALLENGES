@@ -10,9 +10,9 @@ __pycache__/
 *.pyd
 .Python
 
-# Results files
-backtest_results.csv
-backtest_results.png
+# Results files (commented out to allow pushing)
+# backtest_results.csv
+# backtest_results.png
 
 # OS files
 .DS_Store
