@@ -2,6 +2,7 @@
 QQQOPTIONS/
 *.csv
 !QQQ/QQQ_base*.csv
+!QQQ/backtest_results.csv
 
 # Python cache
 __pycache__/
