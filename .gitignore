@@ -1,0 +1,20 @@
+# Large data files
+QQQOPTIONS/
+*.csv
+!QQQ/QQQ_base*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Results files
+backtest_results.csv
+backtest_results.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
