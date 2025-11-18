@@ -1,5 +1,5 @@
 # Large data files
-QQQOPTIONS/
+QQQOPTIONS/*.csv
 *.csv
 !QQQ/QQQ_base*.csv
 !QQQ/backtest_results.csv
